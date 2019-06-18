@@ -1,0 +1,22 @@
+{
+  "name": "simple-chat-app",
+  "version": "1.0.0",
+  "description": "A simple chat app using websockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VakhromeevaKate/simple-chat-app.git"
+  },
+  "keywords": [
+    "simple-chat"
+  ],
+  "author": "Ekaterina A Vakhromeeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VakhromeevaKate/simple-chat-app/issues"
+  },
+  "homepage": "https://github.com/VakhromeevaKate/simple-chat-app#readme"
+}
